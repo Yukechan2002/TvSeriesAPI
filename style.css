@@ -1,0 +1,25 @@
+.trend{
+    text-align: center;
+    background-color: rgb(178, 60, 99);
+    color: white;
+}
+body{
+    background-color: rgb(194, 151, 255);
+}
+.popular{
+    text-align: center;
+    color: white;
+
+}
+
+.form-control{
+    max-width: 250px;
+    max-height: 35px;
+    display: inline;
+}
+
+.search{
+    color: white;
+    text-align: center;
+}
+
